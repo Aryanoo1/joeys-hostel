@@ -31,7 +31,7 @@ const LOCATIONS: Record<string, LocationData> = {
       "Explore nearby attractions such as Swaminarayan Akshardham, Feroz Shah Kotla Cricket Stadium, and Rāj Ghāt, all within a few miles from our hostel. Delhi International Airport is conveniently located 12 miles away.",
       "Experience comfort and convenience at Joey's Hostel, your home away from home in New Delhi."
     ],
-    image: "/images/destinations/delhi.jpg",
+    image: "https://www.joeyshostel.com/img/3.jpg",
     phone: "+91 - 8527222938",
     email: "joeyshostel@gmail.com",
     address: "1/49 Lalita Park, Main Vikas Marg, Laxmi Nagar, Delhi - 110092",
@@ -59,7 +59,7 @@ const LOCATIONS: Record<string, LocationData> = {
       "Our hostel features comfortable rooms, a vibrant common area, and a rooftop terrace offering breathtaking views of the city. Connect with fellow travelers and exchange stories of your adventures in this magical city.",
       "Our knowledgeable staff can help arrange tours, transportation, and provide insider tips to make your stay in Agra truly memorable."
     ],
-    image: "/images/destinations/agra.jpg",
+    image: "https://www.joeyshostel.com/img/2.jpg",
     phone: "+91 - 8273355779",
     amenities: [
       "Dorm and private rooms",
@@ -85,7 +85,7 @@ const LOCATIONS: Record<string, LocationData> = {
       "Immerse yourself in the spiritual atmosphere of Rishikesh while enjoying the comfort of our thoughtfully designed accommodations. Our hostel features peaceful common areas, yoga spaces, and stunning views of the surrounding mountains.",
       "Whether you're seeking adventure in the form of white-water rafting and trekking, or inner peace through yoga and meditation, Joey's Rishikesh provides the perfect base for your journey."
     ],
-    image: "/images/destinations/rishikesh.jpg",
+    image: "https://www.joeyshostel.com/img/1.jpg",
     phone: "+91 - 7217482824",
     amenities: [
       "Riverside location",
@@ -111,7 +111,7 @@ const LOCATIONS: Record<string, LocationData> = {
       "Enjoy homemade meals prepared with love, comfortable private rooms, and the opportunity to experience daily Indian life up-close. Our homestay is designed for travelers who seek a deeper connection with the local culture and people.",
       "Located in a peaceful residential area, yet close to major attractions, Joey's Homestay offers the best of both worlds for your Indian adventure."
     ],
-    image: "/images/destinations/rishikesh.jpg", // Using Rishikesh image as placeholder
+    image: "https://www.joeyshostel.com/img/5.jpg", // Using Rishikesh image as placeholder
     amenities: [
       "Private rooms with ensuite bathrooms",
       "Free Wifi",
@@ -136,7 +136,7 @@ const LOCATIONS: Record<string, LocationData> = {
       "Wake up to the soothing sounds of the river and witness the spectacular Ganga Aarti ceremony just steps from your accommodation. Our hostel is designed to foster connection with nature, the river, and fellow travelers on a spiritual journey.",
       "Our peaceful rooms, meditation spaces, and yoga platforms create the perfect environment for reflection and rejuvenation during your stay."
     ],
-    image: "/images/destinations/rishikesh.jpg", // Using Rishikesh image as placeholder
+    image: "https://www.joeyshostel.com/img/4.jpg", // Using Rishikesh image as placeholder
     phone: "+91 - 7817845045",
     amenities: [
       "Ganges riverfront location",
